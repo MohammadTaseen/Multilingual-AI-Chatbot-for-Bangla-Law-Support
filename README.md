@@ -52,11 +52,12 @@ If you want to reprocess the markdown files and recreate the vector database:
 python vector_store.py
 ```
 This will embed all markdown files in Source_Markdowns/ and store them in chroma_db/.
+
 5. Run the Chatbot App
 ```bash
 streamlit run POC.py
 ```
-💬 Example Queries
+## 💬 Example Queries
 🔸 English Query:
 "How do VAT rates differ between branded and non-branded ready-made garment sales in Bangladesh?"
 
