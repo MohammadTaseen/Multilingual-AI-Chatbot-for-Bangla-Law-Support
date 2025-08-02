@@ -92,4 +92,5 @@ This chatbot is designed to assist with interpreting publicly available legal do
 
 ## 👨‍💻 Author
 Built by Mohammad Taseen — specializing in AI/ML + Generative AI
+
 Reach out for improvements, integration, or suggestions!
