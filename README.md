@@ -21,8 +21,11 @@ An AI-powered multilingual chatbot designed to assist with **Bangladeshi legal d
 ├── POC.py # Main Streamlit chatbot interface
 
 ├── vector_store.py # Embedding + vector storage (Chroma)
+
 ├── requirements.txt # Python dependencies
+
 ├── chroma_db/ # Auto-generated vector database
+
 └── Source_Markdowns/ # Preprocessed legal documents (Markdown format)
 
 ## ⚙️ Getting Started
